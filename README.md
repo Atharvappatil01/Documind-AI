@@ -1,6 +1,6 @@
 # 🧠 DocuMind AI
 
-![DocuMind AI Logo](./documind_ai_logo.svg)
+![DocuMind AI Logo](./logo.svg)
 
 **DocuMind AI** is an intelligent assistant for **document drafting, summarization, clause extraction, and citation lookup**.  
 It is designed as a **developer-friendly, research-ready project** to showcase how AI can support document workflows.  
