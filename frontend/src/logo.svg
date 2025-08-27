@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="64" fill="#0F172A"/>
+  <!-- Document shape -->
+  <rect x="120" y="100" width="180" height="260" rx="16" fill="#FFFFFF"/>
+  <line x1="140" y1="150" x2="280" y2="150" stroke="#0F172A" stroke-width="12" stroke-linecap="round"/>
+  <line x1="140" y1="190" x2="280" y2="190" stroke="#0F172A" stroke-width="12" stroke-linecap="round"/>
+  <line x1="140" y1="230" x2="240" y2="230" stroke="#0F172A" stroke-width="12" stroke-linecap="round"/>
+  <!-- Brain shape (simplified) -->
+  <circle cx="340" cy="230" r="80" fill="#3B82F6" stroke="#FFFFFF" stroke-width="8"/>
+  <path d="M300 220 q40 -60 80 0 q-40 60 -80 0" fill="#60A5FA"/>
+  <circle cx="320" cy="210" r="10" fill="#FFFFFF"/>
+  <circle cx="360" cy="250" r="10" fill="#FFFFFF"/>
+  <!-- Text -->
+  <text x="50%" y="470" text-anchor="middle" font-size="64" font-family="Arial, Helvetica, sans-serif" fill="#FFFFFF" font-weight="bold">
+    DocuMind AI
+  </text>
+</svg>
